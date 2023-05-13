@@ -1,2 +1,2 @@
-# SmartFarmsOpenInfraDaysMX2022
-Smart Farms with K3s and ESP32
+# SmartFarmsArduinoDay
+Smart Farms with K3s, ESP32 and LoRa
